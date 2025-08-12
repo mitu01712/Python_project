@@ -1,0 +1,13 @@
+{
+    "students": {
+        "1224": {
+            "name": "kotha",
+            "age": 23,
+            "address": "tangail",
+            "student_id": "1224",
+            "courses": [],
+            "grades": {}
+        }
+    },
+    "courses": {}
+}
