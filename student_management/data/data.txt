@@ -1,0 +1,4 @@
+===== STUDENTS =====
+ID: 1224, Name: kotha, Age: 23, Address: tangail
+
+===== COURSES =====
